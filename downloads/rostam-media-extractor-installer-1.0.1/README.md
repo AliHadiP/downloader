@@ -9,7 +9,7 @@
 | **Original File** | `rostam-media-extractor-installer-1.0.1.exe` |
 | **Total Size** | **4 parts** - **156.22 MB** |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
@@ -30,7 +30,6 @@
 2. **Install** [7-Zip](https://www.7-zip.org/) (Windows/Linux) or [Keka](https://www.keka.io/) (Mac)
 3. **Right-click** the `.7z.001` file → Extract Here
 4. All parts combine automatically into the original file
-5. Enter the password when prompted
 
 ---
 
